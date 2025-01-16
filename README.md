@@ -2,7 +2,23 @@
 
 ## Table of Contents
 
-TO-DO
+1. [Abstract](#abstract)
+2. [Acknowledgments](#acknowledgments)
+   - [Team Acknowledgment](#team-acknowledgment)
+   - [Data Acknowledgment](#data-acknowledgment)
+3. [Background](#background)
+4. [Data Description](#data-description)
+   - [Variables](#variables)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+   - [Age](#exploratory-data-analysis-age)
+6. [Conclusion](#conclusion)
+   - [Insights](#insights)
+   - [Limitations](#limitations)
+   - [Future Plans](#future-plans)
+7. [Dependencies](#dependencies)
+8. [Project Folder Structure](#project-folder-structure)
+9. [References](#references)
+10. [Contact Information](#contact-information)
 
 ## Project Background
 
