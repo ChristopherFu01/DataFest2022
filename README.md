@@ -17,41 +17,69 @@
    - [Future Plans](#future-plans)
 7. [Dependencies](#dependencies)
 8. [Project Folder Structure](#project-folder-structure)
-9. [References](#references)
+9. [Miscellaneous](#miscellaneous)
 10. [Contact Information](#contact-information)
 
-## Project Background
+## Abstract
 
 TO-DO
 
-## Executive Summary
+## Acknowledgments
 
-TO-DO
+### Team Acknowledgment
+
+I would like to extend my gratitude towards the following students who contributed to this project:
+
+- Tony Lei
+- Terry Ming
+- Derek Nakagawa
+- Jeff Lu
 
 ## Data Acknowledgment
 
 The data used in this project was provided by the Yale School of Medicine at ASA Datafest 2022 under strict privacy and security regulations. Due to privacy policies, the raw data cannot be shared.
 
+## Background
+
+## Data Description
+
 ## Exploratory Data Analysis
 
 TO-DO
 
-## Model Results
+## Conclusion
 
-TO-DO
+### Insights
 
-## Limitations
+### Limitations
 
 - **Data Accessibility**: Due to privacy regulations set by ASA Datafest, raw data could not be exported.
 
-- **Data Complexity**:
+- **Time Constraints**: Due to the time constraints set by the event, with the whole event taking 48 hours in duration, we were not able to fully investigate the project as extensibly as we believe we would be able to.
 
-## Next Steps
+- **Modeling**: Although EDA helps to lay the foundation for the ideas we hope to address, modeling would help support these claims further; our mistake for doing modeling work limits the validity of our findings.
+
+### Next Steps
 
 TO-DO
 
-# Miscellaneous 
+## Dependencies
+
+## Project Folder Structure
+
+```plaintext
+
+```
+
+## Miscellaneous 
 
 Main Github Repo for Data Bruin Group @ DataFest 2022
 
 Around 80 groups in attendance - advanced to final round of 15 teams
+
+## Contact Information
+
+For any questions, please contact:
+
+- Name: Christopher Fu
+- Email: christopherfuwas@gmail.com
