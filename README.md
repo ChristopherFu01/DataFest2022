@@ -104,7 +104,13 @@ We can further improve our project past the competition by building models to de
 ## Project Folder Structure
 
 ```plaintext
-
+Datafest2022/
+|
+├── code/                                                # Jupyter Notebook and R Markdown code files
+├── images/                                              # Images of EDA
+├── C3Data Bruin Group.pdf                               # PDF of presentation shown at the ASA DATAFEST 2022 Challenge
+├── LICENSE                                              # License information
+└── README.md                                            # Project documentation
 ```
 
 ## Miscellaneous 
