@@ -45,6 +45,8 @@ The data used in this project was provided by the Yale School of Medicine at ASA
 
 ## Background
 
+The ASA DataFest 2022 challenge came from the Play2Prevent lab at the Yale Center for Health & Learning Games in the Yale School of Medicine. DataFest participants analyzed data from "Elm City Stories", which is an educational video game designed for middle and high school students. The goal of the game was to prevent negative health outcomes in young, at-risk adolescents by helping teens to increase perception of risk and to develop skills for predicting and understanding future consequences of actions. The DataFest challenge was to characterize, measure and display patterns of play within the game that the researchers could then use to make connections to real-life behavior.
+
 ## Data Description
 
 ![Fig](images/DatasetHead.png)
