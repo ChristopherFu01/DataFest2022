@@ -22,7 +22,9 @@
 
 ## Abstract
 
-TO-DO
+This data science competition submission examines the performance of adolescents in predicting risk and understanding future consequences, based on data from the Yale School of Medicine's Play2Prevent Lab Educational Videogame "Elm City Stories". The analysis aims to provide researchers from the Play2Prevent lab at the Yale School of Medicine with actionable insights for drawing connections between real-life behavior and in-game performance behavior. Using a comprehensive dataset, the study evaluates trends in player ages, in-game skills, stacks, and interactions. Based on EDA work, players belonging to the age 11 cohort severely underperformed compared to ages 12-14, thereby failing to meet the goals by Play2Prevent to teach adolescents about risk assessment. These insights are intended to provide feedback for the Yale School of Medicine in improving certain aspects of their game design to increase retention among younger players, with future plans involving machine learning for detecting interactions among key variables. The study underscores the importance of leveraging educational videogame data to understand how different players behave and how to encourage certain desirable actions.
+
+If you would like to see a presentation format of this project, click [here](C3Data%20Bruin%20Group.pdf).
 
 ## Acknowledgments
 
